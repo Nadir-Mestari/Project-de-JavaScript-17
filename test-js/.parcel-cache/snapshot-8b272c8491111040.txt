@@ -1,0 +1,11 @@
+10
+92C:\Users\hp\Documents\Developpement web codage\Project-de-JavaScript-17\test-js\package.json133562785391682965 0
+104C:\Users\hp\Documents\Developpement web codage\Project-de-JavaScript-17\test-js\dist\test-js.3464ddca.js133562785700184759 0
+84C:\Users\hp\Documents\Developpement web codage\Project-de-JavaScript-17\test-js\dist133562785700500478 1
+95C:\Users\hp\Documents\Developpement web codage\Project-de-JavaScript-17\test-js\dist\index.html133562785700047620 0
+90C:\Users\hp\Documents\Developpement web codage\Project-de-JavaScript-17\test-js\index.html133562802445770852 0
+102C:\Users\hp\Documents\Developpement web codage\Project-de-JavaScript-17\test-js\dist\index.c36f364e.js133562785700167919 0
+106C:\Users\hp\Documents\Developpement web codage\Project-de-JavaScript-17\test-js\dist\index.c36f364e.js.map133562785700448499 0
+108C:\Users\hp\Documents\Developpement web codage\Project-de-JavaScript-17\test-js\dist\test-js.3464ddca.js.map133562785700448499 0
+86C:\Users\hp\Documents\Developpement web codage\Project-de-JavaScript-17\test-js\add.js133562804124217125 0
+88C:\Users\hp\Documents\Developpement web codage\Project-de-JavaScript-17\test-js\index.js133562804188821311 0
